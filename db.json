@@ -1,14 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello World", "author": "JP" },
-    { "id": 2, "title": "Learning JSON Server", "author": "ChatGPT" }
-  ],
-  "comments": [
-    { "id": 1, "body": "This is great!", "postId": 1 },
-    { "id": 2, "body": "Thanks for sharing!", "postId": 1 }
-  ],
-  "profile": {
-    "name": "JP",
-    "age": 25
-  }
+  "posts": [],
+  "comments": [],
+  "users":[]
 }
